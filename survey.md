@@ -19,3 +19,4 @@
 | Natasha Vernooij  | vernooij  | NatashaVernooij  | R, Qualtrics |  |
 | James Brissenden  | brissend  | brissend  | R, Python, Matlab |  |
 | Negin Nadvar  | nadvarn  | nadvarn  | Matlab,bash | How can we reach out with questions later if we run into issues later on? |
+| Kali Sarver | kasarver | kalisarver | R, Qualtrics, Python | ? |
